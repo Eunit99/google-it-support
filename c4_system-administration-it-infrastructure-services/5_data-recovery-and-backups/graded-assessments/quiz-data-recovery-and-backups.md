@@ -81,9 +81,9 @@ Which of these are common backup tools you might consider when designing a backu
 
 Which type of backup only saves copies of files that have been changed or created since the last backup?
 
-* Differential backups [?]
+* **Differential backups**
 * RAID array
-* Incremental backup [INCORRECT]
+* Incremental backup
 * Complete backup 
 
 <br>
